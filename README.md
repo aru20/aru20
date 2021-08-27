@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Arundhati
 - 👀 I’m interested in transitioning from Quality Analyst to data analytics.
 - 🌱 I’m currently learning and practice my data analytics skills every day.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
--       [LinkedIn](www.linkedin.com/in/arundhati-panigrahi)
--       [Portfolio](https://aru20.github.io/)  
-- 
+   <!--- 💞️ I’m looking to collaborate on ...--->
+- 📫 How to reach me:  
+             - [LinkedIn](www.linkedin.com/in/arundhati-panigrahi)
+             
+             - [Portfolio](https://aru20.github.io/)  
 
 ### Projects
 - [Olympic Dashboard](https://github.com/aru20/Olympic/blob/master/README.md) 
