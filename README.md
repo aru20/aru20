@@ -11,7 +11,7 @@ Python, Excel,Tableau,R Programming,MySql and Softeare Testing...
 
   
 ## Projects
-- [Olympic Dashboard](https://github.com/aru20/Olympic/blob/master/README.md) 
+- [Excel Dashboard](https://github.com/aru20/EXCEL-Dashboard/blob/master/README.md) 
 - [Reproducible Research](https://github.com/aru20/Reproducible-Research-Assignment-2/blob/main/README.md)
 - [Spotify-EDA](https://github.com/aru20/SpotifyTracks/edit/main/README.md)  
 - [Data Cleaning](https://github.com/aru20/CourseraProject_GettingCleaningData#readme)
