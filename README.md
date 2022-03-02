@@ -13,7 +13,7 @@ Python, Excel,Tableau,R Programming,MySql and Softeare Testing...
 ## Projects
 - [Excel Dashboard](https://github.com/aru20/EXCEL-Dashboard/blob/master/README.md) 
 - [Health and Economic Impact of Weather Events in the US](https://github.com/aru20/Health-and-Economic-Impact-of-Weather-Events-in-the-US/main/README.md)
-- [Spotify-EDA](https://github.com/aru20/SpotifyTracks/edit/main/README.md)  
+- [Spotify-EDA](https://github.com/aru20/SpotifyTracks/main/README.md)  
 - [Data Cleaning](https://github.com/aru20/CourseraProject_GettingCleaningData#readme)
 - [Exploratory Data Analysis Fitbit Data](https://github.com/aru20/RepData_PeerAssessment1/blob/master/README.md)
  
