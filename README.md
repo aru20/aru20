@@ -15,6 +15,7 @@ Python, Excel,Tableau,R Programming,MySql and Softeare Testing...
 - [Health and Economic Impact of Weather Events in the US](https://github.com/aru20/Health-and-Economic-Impact-of-Weather-Events-in-the-US/main/README.md)
 - [Spotify-EDA](https://github.com/aru20/SpotifyTracks#spotifytracks)  
 - [Olympic Data Analysis](https://github.com/aru20/Olympic-Data-Analysis#olympic-data-analysis)
+- [EDA-National Emissions Inventory Data](https://github.com/aru20/EDA-National-Emissions-Inventory-Data#readme)
 - [Exploratory Data Analysis Fitbit Data](https://github.com/aru20/RepData_PeerAssessment1/blob/master/README.md)
  
   
