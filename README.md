@@ -11,6 +11,7 @@ Python, Excel,Tableau,R Programming,SQL and PowerBI...
 
   
 ## Projects
+- [Optimize-Marketing-Strategy](https://github.com/aru20/Optimize-Marketing-Strategy#optimize-marketing-strategykpmg-virtual-internship-project) 
 - [Excel Dashboard](https://github.com/aru20/EXCEL-Dashboard/blob/master/README.md) 
 - [30DaysChartChallenge](https://github.com/aru20/30DaysChartChallenge#readme) 
 - [Health and Economic Impact of Weather Events in the US](https://github.com/aru20/Health-and-Economic-Impact-of-Weather-Events-in-the-US/main/README.md)
