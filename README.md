@@ -20,6 +20,7 @@ Python, Excel,Tableau,R Programming,SQL and PowerBI...
 - [Olympic Data Analysis](https://github.com/aru20/Olympic-Data-Analysis#olympic-data-analysis)
 - [EDA-National Emissions Inventory Data](https://github.com/aru20/EDA-National-Emissions-Inventory-Data#readme)
 - [Exploratory Data Analysis Fitbit Data](https://github.com/aru20/RepData_PeerAssessment1/blob/master/README.md)
+- [Household-Power-Consumption-Data Plotting](https://github.com/aru20/Household-Power-Consumption-Data-Plotting#introduction)
  
   
 ## 🔗 Connect with Me
