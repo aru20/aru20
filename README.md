@@ -18,8 +18,13 @@ I am passionate about data and analytics and continuously strive to learn new te
 • JIRA • Confluence • Snowflakes • AWS 
 
 ##📓**Certifications**
-![image](https://github.com/aru20/aru20/assets/73730336/b8c4b191-3cd6-4f1d-a851-fe74070df7a1)
 
+![image](https://github.com/aru20/aru20/assets/73730336/b8c4b191-3cd6-4f1d-a851-fe74070df7a1)
+![image](https://github.com/aru20/aru20/assets/73730336/f078437b-bd5b-4d23-ba73-d6a73bce380f)
+![image](https://github.com/aru20/aru20/assets/73730336/2be7d37d-051f-45b4-b209-5da771760693)
+![image](https://github.com/aru20/aru20/assets/73730336/6e86488f-84a9-4f90-852b-1631f26beacb)
+![image](https://github.com/aru20/aru20/assets/73730336/59544e9c-7fac-43ef-b417-eb048b03377b)
+![image](https://github.com/aru20/aru20/assets/73730336/3b1020ad-1910-4c43-9776-e0c8dc971a96)
 
 ##📂 **Projects**
 - [Optimize-Marketing-Strategy](https://github.com/aru20/Optimize-Marketing-Strategy#optimize-marketing-strategykpmg-virtual-internship-project) 
