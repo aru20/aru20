@@ -17,7 +17,7 @@ I am passionate about data and analytics and continuously strive to learn new te
 •  MS Excel (Pivot Tables, Advanced analytical functions) • MS Power Query • MS Power Pivot 
 • JIRA • Confluence • Snowflakes • AWS 
 
-##📓**Certifications**
+## 📓**Certifications**
 
 ![image](https://github.com/aru20/aru20/assets/73730336/b8c4b191-3cd6-4f1d-a851-fe74070df7a1)
 ![image](https://github.com/aru20/aru20/assets/73730336/f078437b-bd5b-4d23-ba73-d6a73bce380f)
@@ -28,7 +28,7 @@ I am passionate about data and analytics and continuously strive to learn new te
 ![image](https://github.com/aru20/aru20/assets/73730336/87edf748-ffae-478f-a6ba-c6b62218e262)
 
 
-##📂 **Projects**
+## 📂 **Projects**
 - [Optimize-Marketing-Strategy](https://github.com/aru20/Optimize-Marketing-Strategy#optimize-marketing-strategykpmg-virtual-internship-project) 
 - [Excel Dashboard](https://github.com/aru20/EXCEL-Dashboard/blob/master/README.md) 
 - [30DaysChartChallenge](https://github.com/aru20/30DaysChartChallenge#readme) 
