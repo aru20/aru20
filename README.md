@@ -25,6 +25,8 @@ I am passionate about data and analytics and continuously strive to learn new te
 ![image](https://github.com/aru20/aru20/assets/73730336/6e86488f-84a9-4f90-852b-1631f26beacb)
 ![image](https://github.com/aru20/aru20/assets/73730336/59544e9c-7fac-43ef-b417-eb048b03377b)
 ![image](https://github.com/aru20/aru20/assets/73730336/3b1020ad-1910-4c43-9776-e0c8dc971a96)
+![image](https://github.com/aru20/aru20/assets/73730336/87edf748-ffae-478f-a6ba-c6b62218e262)
+
 
 ##📂 **Projects**
 - [Optimize-Marketing-Strategy](https://github.com/aru20/Optimize-Marketing-Strategy#optimize-marketing-strategykpmg-virtual-internship-project) 
