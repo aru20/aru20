@@ -48,3 +48,10 @@ I am passionate about data and analytics and continuously strive to learn new te
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArundhatiPanig9)
 
   
+<!---
+your comment goes here
+and here
+## 📂 **Projects**
+Check my portfolio projects that showcase my Power BI, Tableau, SQL and Data Analysis Skills. 
+
+-->
