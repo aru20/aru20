@@ -39,7 +39,7 @@ I am passionate about data and analytics and continuously strive to learn new te
 - [EDA-National Emissions Inventory Data](https://github.com/aru20/EDA-National-Emissions-Inventory-Data#readme)
 - [Exploratory Data Analysis Fitbit Data](https://github.com/aru20/RepData_PeerAssessment1/blob/master/README.md)
 - [Household-Power-Consumption-Data Plotting](https://github.com/aru20/Household-Power-Consumption-Data-Plotting#introduction)
-- [Household-Power-Consumption-Data Plotting](https://github.com/aru20/Household-Power-Consumption-Data-Plotting#introduction)
+- [EDA-Medical Appointments No-Show Data](https://github.com/aru20/EDA-Python-Medical-Appointments#explorarory-data-analysis-of-medical-appointments-no-show-data)
  
   
 ## 🔗 **Connect with Me**
